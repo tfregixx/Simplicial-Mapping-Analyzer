@@ -67,45 +67,45 @@ python main.py
 
 ## 🔄 How It Works
 
-- Generate vertex mappings
-- Check simplicial condition
-- Classify maps
-- Compute homology (H₀, H₁)
-- Compare structures
+- **Generate vertex mappings**
+- **Check simplicial condition**
+- **Classify maps**
+- **Compute homology (H₀, H₁)**
+- **Compare structures**
 
 ---
 
 ## 🖼️ Diagrams
-Triangle Complex (K)
-images/triangle.png
-Line Complex (L)
-images/line.png
-Mapping Visualization
-images/mapping.png
+
+- **Triangle Complex (K): images/triangle.png**
+- **Line Complex (L): images/line.png**
+- **Mapping Visualization: images/mapping.png**
 
 ## 📊 Flowchart
 images/flowchart.png
 
 ## 📉 Example Output
-Homology of K: (1, 1)
-Homology of L: (1, 0)
+
+- **Homology of K: (1, 1)**
+- **Homology of L: (1, 0)**
 
 ❌ Homology NOT preserved
 
 ---
 
 ## 📈 Key Insights
-✅ Simplicial maps preserve local structure
-✅ Homology captures global topology
-✅ Loops may disappear under mapping
-✅ Not all mappings preserve topology
+
+- **✅ Simplicial maps preserve local structure**
+- **✅ Homology captures global topology**
+- **✅ Loops may disappear under mapping**
+- **✅ Not all mappings preserve topology**
 
 ## 🔮 Future Work
 
-- Larger complexes
-- Matrix-based homology
-- Persistent homology
-- Visualization tools
+- **Larger complexes**
+- **Matrix-based homology**
+- **Persistent homology**
+- **Visualization tools**
 
 ---
 
