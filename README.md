@@ -29,10 +29,10 @@ This project demonstrates how to enumerate all possible simplicial maps and dete
 
 ## 🧰 Technologies Used
 
-### 🔹 Programming
+## 🔹 Programming
 Python 3  
 
-### 🔹 Libraries
+## 🔹 Libraries
 - itertools (built-in)
 
 ---
@@ -76,15 +76,22 @@ python main.py
 
 ---
 
-
 ## 🖼️ Diagrams
 
-- **Triangle Complex (K): images/triangle.png**
-- **Line Complex (L): images/line.png**
-- **Mapping Visualization: images/mapping.png**
+### Triangle Complex (K)
+![Triangle](images/triangle.png)
+
+### Line Complex (L)
+![Line](images/line.png)
+
+### Mapping Visualization
+![Mapping](images/mapping.png)
+
+---
 
 ## 📊 Flowchart
-images/flowchart.png
+
+![Flowchart](images/flowchart.png)
 
 ## 📉 Example Output
 
