@@ -53,11 +53,12 @@ tda-simplicial-mapping/
 
 ---
 
+
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tda-simplicial-mapping.git
-cd tda-simplicial-mapping
+git clone https://github.com/tfregixx/Simplicial-Mapping-Analyzer.git
+cd Simplicial-Mapping-Analyzer
 
 
 ▶️ Usage
