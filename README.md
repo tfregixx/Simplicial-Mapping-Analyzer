@@ -60,12 +60,12 @@ git clone https://github.com/YOUR_USERNAME/tda-simplicial-mapping.git
 cd tda-simplicial-mapping
 
 
-## ▶️ Usage
+▶️ Usage
 
 python main.py
 ``
 
-## 🔄 How It Works
+🔄 How It Works
 
 - **Generate vertex mappings**
 - **Check simplicial condition**
@@ -73,7 +73,9 @@ python main.py
 - **Compute homology (H₀, H₁)**
 - **Compare structures**
 
+
 ---
+
 
 ## 🖼️ Diagrams
 
