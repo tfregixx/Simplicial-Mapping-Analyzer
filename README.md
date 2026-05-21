@@ -73,6 +73,7 @@ python main.py
 - Compute homology (H₀, H₁)
 - Compare structures
 
+---
 
 ## 🖼️ Diagrams
 Triangle Complex (K)
@@ -91,6 +92,7 @@ Homology of L: (1, 0)
 
 ❌ Homology NOT preserved
 
+---
 
 ## 📈 Key Insights
 ✅ Simplicial maps preserve local structure
@@ -105,6 +107,7 @@ Homology of L: (1, 0)
 - Persistent homology
 - Visualization tools
 
+---
 
 ## 📌 Author
 
