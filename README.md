@@ -126,3 +126,6 @@ Student – Topological Data Analysis Project
 
 ---
 
+## License
+Mit 
+
