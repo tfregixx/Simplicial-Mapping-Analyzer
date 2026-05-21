@@ -60,11 +60,13 @@ tda-simplicial-mapping/
 git clone https://github.com/tfregixx/Simplicial-Mapping-Analyzer.git
 cd Simplicial-Mapping-Analyzer
 
+---
 
 ▶️ Usage
 
 python main.py
 ``
+---
 
 🔄 How It Works
 
@@ -127,5 +129,5 @@ Student – Topological Data Analysis Project
 ---
 
 ## License
-Mit 
+MIT license
 
