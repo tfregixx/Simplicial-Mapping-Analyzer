@@ -53,22 +53,24 @@ tda-simplicial-mapping/
 
 ---
 
-
 ## ⚙️ Installation
+
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/tfregixx/Simplicial-Mapping-Analyzer.git
 cd Simplicial-Mapping-Analyzer
-
+ ```
+ 
 ---
 
-▶️ Usage
+## ▶️ Usage
 
 python main.py
-``
+
 ---
 
-🔄 How It Works
+## 🔄 How It Works
 
 - **Generate vertex mappings**
 - **Check simplicial condition**
@@ -101,6 +103,8 @@ python main.py
 - **Homology of K: (1, 1)**
 - **Homology of L: (1, 0)**
 
+---
+
 ❌ Homology NOT preserved
 
 ---
@@ -112,6 +116,8 @@ python main.py
 - **✅ Loops may disappear under mapping**
 - **✅ Not all mappings preserve topology**
 
+---
+
 ## 🔮 Future Work
 
 - **Larger complexes**
@@ -121,13 +127,13 @@ python main.py
 
 ---
 
-## 📌 Author
+## 📌 Author  
 
-Preethi Regina Sundaram Dayalan
-Student – Topological Data Analysis Project
+Preethi Regina Sundaram Dayalan  
+Student – Topological Data Analysis Project  
 
 ---
 
-## License
-MIT license
+## 📜 License  
 
+MIT License  
